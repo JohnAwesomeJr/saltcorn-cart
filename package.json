@@ -1,12 +1,10 @@
 {
-    "name": "@saltcorn/json",
-    "version": "0.3.8",
-    "description": "JSON field plugin",
+    "name": "@saltcorn/cart",
+    "version": "0",
+    "description": "Store and Cart For Products",
     "main": "json.js",
-    "dependencies": {
-        "@saltcorn/markup": "^0.4.0"
-    },
-    "author": "Tom Nielsen",
+    "dependencies": {},
+    "author": "John Christensen",
     "license": "MIT",
     "eslintConfig": {
         "extends": "eslint:recommended",
